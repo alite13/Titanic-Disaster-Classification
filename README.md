@@ -18,7 +18,7 @@ This project is implemented using Python 3.8.5.
 
 ## Results:  
 
-| Model | Accuracy (%) | 
+| Model | Validation Accuracy (%) | 
 | --- | --- |  
 | Random Forest | 88.01 |
 | Perceptron | 71.79 |  
